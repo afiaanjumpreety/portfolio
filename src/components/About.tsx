@@ -33,7 +33,8 @@ export default function About() {
               problems into simple, intuitive interfaces.
             </p>
             <p className="text-lg text-slate-600 leading-relaxed">
-              With over 4 years of experience ⏱️, I've worked on large-scale products, 
+              With over 4 years of professional experience ⏱️—including roles as a software engineer 
+              and an Assistant Relationship Manager at a stock brokerage firm—I've worked on large-scale products, 
               managed front-end workflows, and collaborated with cross-functional teams 
               to deliver exceptional user experiences.
             </p>
